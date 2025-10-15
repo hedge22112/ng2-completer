@@ -27,7 +27,7 @@
     },
     "files": [
         "public_api.ts",
-        "node_modules/zone.js/dist/zone.js.d.ts"
+        "node_modules/zone.js/zone.d.ts"
     ],
     "angularCompilerOptions": {
         "skipTemplateCodegen": true,

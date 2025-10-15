@@ -126,7 +126,7 @@ const COMPLETER_CONTROL_VALUE_ACCESSOR = {
         .completer-image-default {
             width: 16px;
             height: 16px;
-            background-image: url("demo/res/img/default.png");
+            /*background-image: url("demo/res/img/default.png");*/
         }
 
         .completer-image-holder {
