@@ -14,7 +14,7 @@ export class CompleterService {
     ) { }
 
     public local(
-        data: any[] | Observable<any>,
+        data: any[] | Observable<any[]>,
         searchFields: string | null = "",
         titleField: string | null = ""
     ): LocalData {
